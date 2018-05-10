@@ -14,4 +14,4 @@ print("There are", cars, "cars available.")
 print("There are only", drivers, "drivers available.")
 print("Threre will be", cars_not_driven, "empty cars today.")
 print("We can transprot", carpool_capacity, "people today.")
-print("We have", passengers, "to carpool today.")
+
